@@ -1,4 +1,4 @@
-# online-food-order-foodiebaba-
+# online-food-order
 This repository contains the code for online food ordering chatbot, SO basically this is simple chatbot which can help you to take your order as per your requested food and quantity and finally place your order with your given details.
 This bot is also integrated with facebook messsanger likewise you can add this bot to your FB page and use to take orders from customers.
 
